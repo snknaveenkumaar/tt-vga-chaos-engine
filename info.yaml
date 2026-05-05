@@ -1,7 +1,7 @@
 yaml_version: 6
 
 project:
-  title: "Multi-Mode Procedural VGA Graphics Engine"
+  title: "IEEE Multi-Mode Procedural VGA Graphics Engine"
   author: "Kannan S J"
   description: "Procedural VGA graphics engine with multiple real-time modes using arithmetic-only rendering."
 
