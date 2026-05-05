@@ -18,7 +18,7 @@ module tb ();
   end
 
   // DUT (YOUR module name here)
-  tt_um_vga_example dut (
+  tt_um_vga dut (
     .ui_in   (ui_in),
     .uo_out  (uo_out),
     .uio_in  (uio_in),
